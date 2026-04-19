@@ -6,7 +6,7 @@ import = [
 # Themes from https://github.com/alacritty/alacritty-theme
 
 [window]
-# decorations = "None"
+decorations = "None"
 opacity = 0.85
 blur = true
 
